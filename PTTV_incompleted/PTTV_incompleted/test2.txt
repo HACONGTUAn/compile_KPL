@@ -1,0 +1,5 @@
+Da mo xong 
+1-1:KW_PROGRAM
+1-9:TK_IDENT(Example2)
+1-17:Invalid symbol!
+PS

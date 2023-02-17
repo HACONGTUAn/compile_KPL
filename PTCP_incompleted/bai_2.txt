@@ -1,0 +1,8 @@
+Program bai2;
+ var x: interger;
+ var y: interger;
+begin
+x = readI;
+y= readI;
+call writeI(x+y)
+end.

@@ -1,0 +1,29 @@
+Program bai1;
+Const n = 4;
+type Mang2c = Array(.10.) OF integer;
+var i : integer;
+var j:integer;
+var kt : integer;
+a : Mang2c
+
+Begin
+write ('nhap phan tu cua mang 2 chieu ');
+for i := 1 to do n
+for j := 1 to do n
+Begin 
+write(' Phan tu thu [',i,',',j,'] = ');
+readln(a[i][j]);
+end;
+
+for i := 1 to do n
+for j := 1 to do n
+Begin
+if(j>j) then kt := 1
+else kt := 0;
+end;
+
+if(kt = 1) then  
+	write('1')
+else 
+	write('0');
+end.
